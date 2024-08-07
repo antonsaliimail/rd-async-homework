@@ -1,0 +1,12 @@
+venv/
+.venv/
+
+*.DS_Store
+*__pycache__
+*.idea
+
+*.cache
+
+.env*
+
+lesson_2/downloaded_data/
